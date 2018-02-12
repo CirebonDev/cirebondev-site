@@ -17,6 +17,14 @@ root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
+theme_config:
+  menu:
+    Blog: /
+    Archive: /archives/
+    Facebook: https://www.facebook.com/groups/1071016736296585/
+    GitHub: https://github.com/cirebondev
+    Rss: /atom.xml
+
 # Directory
 source_dir: source
 public_dir: public
