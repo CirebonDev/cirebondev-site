@@ -37,4 +37,3 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
 
-{% telegram_image_embeder https://t.me/crbdev/5453 %}
