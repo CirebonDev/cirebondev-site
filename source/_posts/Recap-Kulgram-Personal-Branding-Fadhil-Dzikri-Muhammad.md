@@ -1,7 +1,7 @@
 ---
-title: Recap Kulgram - Personal Branding ( Fadhil Dzikri Muhammad )
-date: 2018-02-11 10:28:17
-tags:
+title: Personal Branding - Fadhil Dzikri Muhammad
+date: 2018-02-03 20:28:17
+tags: kulgram
 ---
 
 # Personal Branding
