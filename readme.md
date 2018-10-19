@@ -1,4 +1,4 @@
-Official Website of Cirebon Developer - Powered by Hexo
+Official Website of Cirebon Developer - Powered by [Hexo](https://hexo.io/)
 
 English | [Bahasa](/readme-id.md)
 
