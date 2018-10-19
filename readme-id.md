@@ -1,4 +1,4 @@
-Website Resmi Cirebon Developer - Diberdayakan oleh Hexo
+Website Resmi Cirebon Developer - Diberdayakan oleh [Hexo](https://hexo.io/)
 
 [English](/readme.md) | Bahasa
 
